@@ -16,5 +16,3 @@ yarn-error.log
 /public/assets/images
 /public/dist
 /resources/css/plugin
-/resources/js/plugin
-/resources/lang
