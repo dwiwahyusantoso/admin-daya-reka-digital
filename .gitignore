@@ -13,5 +13,10 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-/resources
-/public
+/public/assets
+/public/css
+/public/dist
+/public/js
+/resources/css
+/resources/js
+/resources/lang
