@@ -17,6 +17,6 @@ yarn-error.log
 /public/css
 /public/dist
 /public/js
-/resources/css
-/resources/js
+/resources/css/plugin
+/resources/js/plugin
 /resources/lang
